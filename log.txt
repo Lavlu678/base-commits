@@ -28,6 +28,6 @@ jvw
 kvw
 lvw
 mv
-nv
+nvw
 ovw
 pvw
