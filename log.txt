@@ -28,6 +28,6 @@ jv
 kv
 lv
 mv
-n
+nv
 o
 p
