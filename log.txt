@@ -24,7 +24,7 @@ evw
 fvw
 hvw
 ivw
-jv
+jvw
 kv
 lv
 mv
